@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+cite{
+    font-family: 'Courgette', cursive;
+}
+.jumbotron{
+    background-image:url('../assets/back.jpeg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;   
+    color: white;
+}
+body{
+    padding:70px 0px 0px 0px;
+    min-height:400px;
+    z-index:100;   
+}
+.row-header{
+    padding:70px 0px 70px 0px;
+    height:100%;
+}

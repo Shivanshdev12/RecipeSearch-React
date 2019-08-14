@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+
+cite{
+    font-family: 'Courgette', cursive;
+}
+span{
+    color:#f15025;
+}
+.card{
+    border:1px solid #c3c3c3;
+    display: inline-block;
+    padding:5px;
+    width:300px;
+    margin:10px auto;
+    box-shadow:0px 2px 2px 0px #ccc;
+}
+input{
+    border:1px solid #eee;
+    border-bottom:2px solid #ccc;
+    padding:10px 20px;
+}
+.btn{
+    margin:10px;
+}
